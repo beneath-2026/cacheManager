@@ -1,0 +1,6 @@
+{
+  "cache_root": "",
+  "preserve_extensions": [".json"],
+  "available_tags": ["keep", "final", "wip", "trash"],
+  "protected_tags": ["keep"]
+}

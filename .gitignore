@@ -1,0 +1,16 @@
+# Runtime tag database (created on first use, holds machine-specific cache paths)
+metadata.json
+metadata.json.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+
+# IDE / tooling / OS
+.idea/
+.vscode/
+.claude/
+.DS_Store
+Thumbs.db
