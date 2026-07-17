@@ -7,7 +7,7 @@ It scans your cache folder, shows it as a tree, lets you **tag** folders (keep /
 trash), computes folder sizes in the background, and **deletes the heavy cache files** while
 preserving the folder structure, descriptor files, and anything you marked to keep.
 
-![screenshot](docs/screenshot.png) <!-- TODO: drop a screenshot here -->
+![screenshot](docs/screenshot.png)
 
 ## Features
 
@@ -64,8 +64,3 @@ cache folder. Your choice is saved to `config.json`.
 
 Tags themselves are stored separately in `metadata.json`, which is created on first use and is
 git-ignored (it holds absolute cache paths specific to your machine).
-
-## Notes / possible improvements
-
-<!-- TODO (Jan): add anything you want — e.g. why you built it, the worst cache-bloat
-     story, or features you'd add next. -->
